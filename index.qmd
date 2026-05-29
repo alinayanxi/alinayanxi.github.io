@@ -1,12 +1,159 @@
 ---
-title: "Home"
----
+
+## title: Home
 
 # Welcome
 
-This is my Quarto website.
+Hi, I'm **Alina Chen**.
 
-## PySpark Test
+I am currently pursuing a **Master of Science in Applied Business Analytics** at **Boston University** while building professional experience across analytics, marketing, business strategy, and customer growth.
 
-```{python}
-print("Hello from PySpark Environment!")
+Having studied and worked in the **United States, France, and China**, I have developed a global perspective on business, data-driven decision making, and cross-cultural communication.
+
+My goal is to combine analytics, technology, and business strategy to help organizations solve complex problems and drive sustainable growth.
+
+---
+
+## Education
+
+### Boston University
+
+**Master of Science in Applied Business Analytics**
+Expected Graduation: August 2026
+
+Relevant Areas:
+
+* Data Analytics
+* Business Intelligence
+* Data Visualization
+* Predictive Modeling
+* Machine Learning
+
+### Excelia Business School (Paris, France)
+
+**Bachelor of Business Administration**
+
+International Marketing and Sales Management
+
+---
+
+## Professional Experience
+
+### Growth Strategy & Commercial Operations Coordinator
+
+**Peninsula Montessori Academy – Boston, USA**
+
+* Analyze customer and enrollment data to identify growth opportunities.
+* Build dashboards and executive reports for operational decision-making.
+* Optimize lead generation, conversion funnels, and customer acquisition strategies.
+* Improve customer experience through analytics-driven insights.
+
+### Market Intelligence & Business Strategy Intern
+
+**Detecon Consulting – Guangzhou, China**
+
+* Conduct market research and competitive intelligence projects.
+* Analyze large-scale business datasets using Excel and SQL.
+* Deliver strategic recommendations and executive-level business reports.
+* Support operational optimization and business transformation initiatives.
+
+### Customer Insights & Growth Analytics Trainee
+
+**Sisyphus Training – Paris, France**
+
+* Designed and executed digital marketing campaigns.
+* Conducted customer behavior analysis and retention optimization.
+* Managed CRM systems and customer segmentation initiatives.
+* Supported business growth through data-driven marketing strategies.
+
+### Marketing & Communications Intern
+
+**Sinocom Voyage – Paris, France**
+
+* Supported international marketing campaigns and content strategy.
+* Conducted customer engagement and partnership development initiatives.
+* Assisted in go-to-market planning and digital marketing execution.
+
+---
+
+## Technical Skills
+
+### Data Analytics
+
+* Python
+* SQL
+* Tableau
+* Power BI
+* Excel
+
+### Business Analytics
+
+* Google Analytics
+* Google Tag Manager
+* Salesforce
+* HubSpot
+* CRM Analytics
+* A/B Testing
+* Audience Segmentation
+
+### Marketing Technology
+
+* SEO
+* Google Ads
+* Meta Ads
+* Email Marketing
+* WordPress
+* Wix
+
+### Design & Content
+
+* Canva
+* Adobe Photoshop
+
+---
+
+## Languages
+
+* Mandarin Chinese (Native)
+* Cantonese (Native)
+* English (Fluent)
+* French (Professional Working Proficiency)
+
+---
+
+## Professional Interests
+
+I am passionate about transforming data into meaningful business insights.
+
+My current interests include:
+
+* Business Analytics
+* Data Science
+* Marketing Analytics
+* Product Analytics
+* Customer Intelligence
+* Business Strategy
+* Data Engineering
+
+---
+
+## Current Focus
+
+At Boston University, I am expanding my expertise in:
+
+* Data Analytics & Visualization
+* Machine Learning
+* Big Data Technologies
+* Cloud Computing
+* Business Intelligence Systems
+* Predictive Analytics
+
+---
+
+## Connect With Me
+
+📧 [alinacyx@bu.edu](mailto:alinacyx@bu.edu)
+
+💼 LinkedIn: [www.linkedin.com/in/alinayanxi](http://www.linkedin.com/in/alinayanxi)
+
+💻 GitHub: https://github.com/alinayanxi
