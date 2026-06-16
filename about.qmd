@@ -1,5 +1,77 @@
 ---
-title: "About"
+title: "About You"
 ---
 
-About this site
+# About Me
+
+## Hi, I’m Alina 👋
+
+I am currently completing my Master’s degree at Boston University and preparing to begin my professional career in the United States.
+
+My academic and professional experiences across Asia, Europe, and North America have shaped how I think about business: meaningful growth happens when data, people, and strategy work together.
+
+Over the past few years, I have worked across marketing, sales, business development, and market research environments, gaining experience in customer engagement, campaign execution, market analysis, and cross-functional collaboration.
+
+I enjoy turning fragmented information into clear insights and helping teams make better decisions.
+
+---
+
+## Education
+
+### Boston University  
+Master’s Degree  
+Expected Graduation: August 2026
+
+Relevant Areas:
+- Business Analytics
+- Marketing Strategy
+- Data Visualization
+- Customer Insights
+- Market Intelligence
+
+### Excelia Business School (France)
+
+Bachelor’s Degree in International Business
+
+Highlights:
+- International learning environment
+- Cross-cultural collaboration
+- Global business perspective
+
+---
+
+## Professional Experience
+
+### Growth Marketing & Enrollment
+
+Worked closely with customer acquisition, community outreach, event coordination, and marketing performance analysis.
+
+### Consulting & Market Research
+
+Conducted industry research, analyzed business information, created executive presentations, and transformed large amounts of information into actionable recommendations.
+
+### Sales & Business Development
+
+Developed communication, relationship management, and problem-solving capabilities through direct interaction with customers and stakeholders.
+
+---
+
+## Technical Skills
+
+**Data & Analytics**  
+Python · SQL · Excel · Tableau · Power BI
+
+**Marketing**  
+CRM · Campaign Analysis · Market Research · Content Strategy
+
+**Business**
+
+Presentation Design · Competitive Intelligence · Project Management
+
+---
+
+## Beyond Work
+
+Outside of work, I enjoy exploring cities, learning languages, building creative side projects, and continuously discovering new industries and ideas.
+
+I believe curiosity and execution are equally important—and I hope this portfolio reflects both.

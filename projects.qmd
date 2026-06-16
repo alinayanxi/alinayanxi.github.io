@@ -1,0 +1,88 @@
+---
+title: "Projects"
+---
+
+# Projects
+
+Below are selected projects that reflect my interests in business strategy, analytics, marketing, and technology.
+
+---
+
+## Market Intelligence Website (Personal Project)
+
+### InterSystems Market Intelligence Platform
+
+Designed and developed a responsive website to present company research, product insights, and market positioning in an engaging and interactive format.
+
+Highlights:
+
+- Built using modern web technologies
+- Structured competitive and product intelligence
+- Visual storytelling and dashboard-style presentation
+- Improved ability to communicate technical information
+
+Skills:
+
+HTML · CSS · JavaScript · Research · Market Intelligence
+
+Website:
+
+https://intersystems-intelligence.vercel.app/
+
+---
+
+## Employability & Labor Market Analytics
+
+### Hiring Pattern Analysis Project
+
+Conducted exploratory analysis on employment and hiring patterns using large datasets.
+
+Research Questions:
+
+- How do hiring patterns differ across industries?
+- What factors influence workforce participation?
+
+Methods:
+
+- Data cleaning
+- Exploratory analysis
+- Visualization
+- Statistical interpretation
+
+Tools:
+
+Python · SQL · GitHub · Data Visualization
+
+---
+
+## Marketing & Customer Growth Projects
+
+Worked on customer acquisition and growth initiatives through campaign execution and performance analysis.
+
+Examples:
+
+- Community outreach strategy
+- Lead generation optimization
+- Event marketing support
+- Customer conversion tracking
+
+Skills:
+
+CRM · Analytics · Digital Marketing
+
+---
+
+## Data Analytics & Visualization
+
+Built analytical workflows to transform raw information into actionable business insights.
+
+Examples:
+
+- Dashboard design
+- Reporting automation
+- Data storytelling
+- Performance measurement
+
+Tools:
+
+Python · Excel · Tableau · Power BI

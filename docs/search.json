@@ -1,23 +1,184 @@
 [
   {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Thank you for visiting my portfolio.\nI’m always happy to connect with professionals, recruiters, classmates, and collaborators.\n\n\n📧 alinayanxi@gmail.com\n\n\n\n🔗 https://www.linkedin.com/in/alinayanxi/\n\n\n\n🔗 https://github.com/alinayanxi\n\n\n\n\n\nMarket Intelligence\nBusiness Analytics\nMarketing Strategy\nBusiness Development\nCustomer Insights\n\nFeel free to reach out for opportunities, collaboration, or simply to connect."
+  },
+  {
+    "objectID": "contact.html#email",
+    "href": "contact.html#email",
+    "title": "Contact",
+    "section": "",
+    "text": "📧 alinayanxi@gmail.com"
+  },
+  {
+    "objectID": "contact.html#linkedin",
+    "href": "contact.html#linkedin",
+    "title": "Contact",
+    "section": "",
+    "text": "🔗 https://www.linkedin.com/in/alinayanxi/"
+  },
+  {
+    "objectID": "contact.html#github",
+    "href": "contact.html#github",
+    "title": "Contact",
+    "section": "",
+    "text": "🔗 https://github.com/alinayanxi"
+  },
+  {
+    "objectID": "contact.html#areas-of-interest",
+    "href": "contact.html#areas-of-interest",
+    "title": "Contact",
+    "section": "",
+    "text": "Market Intelligence\nBusiness Analytics\nMarketing Strategy\nBusiness Development\nCustomer Insights\n\nFeel free to reach out for opportunities, collaboration, or simply to connect."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "This is my Quarto website.\n\n\nprint(“Hello from PySpark Environment!”)"
+    "text": "Hi, I’m Alina Chen.\nI am currently pursuing a Master of Science in Applied Business Analytics at Boston University while building professional experience across analytics, marketing, business strategy, and customer growth.\nHaving studied and worked in the United States, France, and China, I have developed a global perspective on business, data-driven decision making, and cross-cultural communication.\nMy goal is to combine analytics, technology, and business strategy to help organizations solve complex problems and drive sustainable growth.\n\n\n\n\n\nMaster of Science in Applied Business Analytics Expected Graduation: August 2026\nRelevant Areas:\n\nData Analytics\nBusiness Intelligence\nData Visualization\nPredictive Modeling\nMachine Learning\n\n\n\n\nBachelor of Business Administration\nInternational Marketing and Sales Management\n\n\n\n\n\n\n\nPeninsula Montessori Academy – Boston, USA\n\nAnalyze customer and enrollment data to identify growth opportunities.\nBuild dashboards and executive reports for operational decision-making.\nOptimize lead generation, conversion funnels, and customer acquisition strategies.\nImprove customer experience through analytics-driven insights.\n\n\n\n\nDetecon Consulting – Guangzhou, China\n\nConduct market research and competitive intelligence projects.\nAnalyze large-scale business datasets using Excel and SQL.\nDeliver strategic recommendations and executive-level business reports.\nSupport operational optimization and business transformation initiatives.\n\n\n\n\nSisyphus Training – Paris, France\n\nDesigned and executed digital marketing campaigns.\nConducted customer behavior analysis and retention optimization.\nManaged CRM systems and customer segmentation initiatives.\nSupported business growth through data-driven marketing strategies.\n\n\n\n\nSinocom Voyage – Paris, France\n\nSupported international marketing campaigns and content strategy.\nConducted customer engagement and partnership development initiatives.\nAssisted in go-to-market planning and digital marketing execution.\n\n\n\n\n\n\n\n\n\nPython\nSQL\nTableau\nPower BI\nExcel\n\n\n\n\n\nGoogle Analytics\nGoogle Tag Manager\nSalesforce\nHubSpot\nCRM Analytics\nA/B Testing\nAudience Segmentation\n\n\n\n\n\nSEO\nGoogle Ads\nMeta Ads\nEmail Marketing\nWordPress\nWix\n\n\n\n\n\nCanva\nAdobe Photoshop\n\n\n\n\n\n\n\nMandarin Chinese (Native)\nCantonese (Native)\nEnglish (Fluent)\nFrench (Professional Working Proficiency)\n\n\n\n\n\nI am passionate about transforming data into meaningful business insights.\nMy current interests include:\n\nBusiness Analytics\nData Science\nMarketing Analytics\nProduct Analytics\nCustomer Intelligence\nBusiness Strategy\nData Engineering\n\n\n\n\n\nAt Boston University, I am expanding my expertise in:\n\nData Analytics & Visualization\nMachine Learning\nBig Data Technologies\nCloud Computing\nBusiness Intelligence Systems\nPredictive Analytics\n\n\n\n\n\n📧 alinacyx@bu.edu\n💼 LinkedIn: www.linkedin.com/in/alinayanxi\n💻 GitHub: https://github.com/alinayanxi"
   },
   {
-    "objectID": "index.html#pyspark-test",
-    "href": "index.html#pyspark-test",
+    "objectID": "index.html#education",
+    "href": "index.html#education",
     "title": "Home",
     "section": "",
-    "text": "print(“Hello from PySpark Environment!”)"
+    "text": "Master of Science in Applied Business Analytics Expected Graduation: August 2026\nRelevant Areas:\n\nData Analytics\nBusiness Intelligence\nData Visualization\nPredictive Modeling\nMachine Learning\n\n\n\n\nBachelor of Business Administration\nInternational Marketing and Sales Management"
+  },
+  {
+    "objectID": "index.html#professional-experience",
+    "href": "index.html#professional-experience",
+    "title": "Home",
+    "section": "",
+    "text": "Peninsula Montessori Academy – Boston, USA\n\nAnalyze customer and enrollment data to identify growth opportunities.\nBuild dashboards and executive reports for operational decision-making.\nOptimize lead generation, conversion funnels, and customer acquisition strategies.\nImprove customer experience through analytics-driven insights.\n\n\n\n\nDetecon Consulting – Guangzhou, China\n\nConduct market research and competitive intelligence projects.\nAnalyze large-scale business datasets using Excel and SQL.\nDeliver strategic recommendations and executive-level business reports.\nSupport operational optimization and business transformation initiatives.\n\n\n\n\nSisyphus Training – Paris, France\n\nDesigned and executed digital marketing campaigns.\nConducted customer behavior analysis and retention optimization.\nManaged CRM systems and customer segmentation initiatives.\nSupported business growth through data-driven marketing strategies.\n\n\n\n\nSinocom Voyage – Paris, France\n\nSupported international marketing campaigns and content strategy.\nConducted customer engagement and partnership development initiatives.\nAssisted in go-to-market planning and digital marketing execution."
+  },
+  {
+    "objectID": "index.html#technical-skills",
+    "href": "index.html#technical-skills",
+    "title": "Home",
+    "section": "",
+    "text": "Python\nSQL\nTableau\nPower BI\nExcel\n\n\n\n\n\nGoogle Analytics\nGoogle Tag Manager\nSalesforce\nHubSpot\nCRM Analytics\nA/B Testing\nAudience Segmentation\n\n\n\n\n\nSEO\nGoogle Ads\nMeta Ads\nEmail Marketing\nWordPress\nWix\n\n\n\n\n\nCanva\nAdobe Photoshop"
+  },
+  {
+    "objectID": "index.html#languages",
+    "href": "index.html#languages",
+    "title": "Home",
+    "section": "",
+    "text": "Mandarin Chinese (Native)\nCantonese (Native)\nEnglish (Fluent)\nFrench (Professional Working Proficiency)"
+  },
+  {
+    "objectID": "index.html#professional-interests",
+    "href": "index.html#professional-interests",
+    "title": "Home",
+    "section": "",
+    "text": "I am passionate about transforming data into meaningful business insights.\nMy current interests include:\n\nBusiness Analytics\nData Science\nMarketing Analytics\nProduct Analytics\nCustomer Intelligence\nBusiness Strategy\nData Engineering"
+  },
+  {
+    "objectID": "index.html#current-focus",
+    "href": "index.html#current-focus",
+    "title": "Home",
+    "section": "",
+    "text": "At Boston University, I am expanding my expertise in:\n\nData Analytics & Visualization\nMachine Learning\nBig Data Technologies\nCloud Computing\nBusiness Intelligence Systems\nPredictive Analytics"
+  },
+  {
+    "objectID": "index.html#connect-with-me",
+    "href": "index.html#connect-with-me",
+    "title": "Home",
+    "section": "",
+    "text": "📧 alinacyx@bu.edu\n💼 LinkedIn: www.linkedin.com/in/alinayanxi\n💻 GitHub: https://github.com/alinayanxi"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Below are selected projects that reflect my interests in business strategy, analytics, marketing, and technology.\n\n\n\n\n\nDesigned and developed a responsive website to present company research, product insights, and market positioning in an engaging and interactive format.\nHighlights:\n\nBuilt using modern web technologies\nStructured competitive and product intelligence\nVisual storytelling and dashboard-style presentation\nImproved ability to communicate technical information\n\nSkills:\nHTML · CSS · JavaScript · Research · Market Intelligence\nWebsite:\nhttps://intersystems-intelligence.vercel.app/\n\n\n\n\n\n\n\nConducted exploratory analysis on employment and hiring patterns using large datasets.\nResearch Questions:\n\nHow do hiring patterns differ across industries?\nWhat factors influence workforce participation?\n\nMethods:\n\nData cleaning\nExploratory analysis\nVisualization\nStatistical interpretation\n\nTools:\nPython · SQL · GitHub · Data Visualization\n\n\n\n\n\nWorked on customer acquisition and growth initiatives through campaign execution and performance analysis.\nExamples:\n\nCommunity outreach strategy\nLead generation optimization\nEvent marketing support\nCustomer conversion tracking\n\nSkills:\nCRM · Analytics · Digital Marketing\n\n\n\n\nBuilt analytical workflows to transform raw information into actionable business insights.\nExamples:\n\nDashboard design\nReporting automation\nData storytelling\nPerformance measurement\n\nTools:\nPython · Excel · Tableau · Power BI"
+  },
+  {
+    "objectID": "projects.html#market-intelligence-website-personal-project",
+    "href": "projects.html#market-intelligence-website-personal-project",
+    "title": "Projects",
+    "section": "",
+    "text": "Designed and developed a responsive website to present company research, product insights, and market positioning in an engaging and interactive format.\nHighlights:\n\nBuilt using modern web technologies\nStructured competitive and product intelligence\nVisual storytelling and dashboard-style presentation\nImproved ability to communicate technical information\n\nSkills:\nHTML · CSS · JavaScript · Research · Market Intelligence\nWebsite:\nhttps://intersystems-intelligence.vercel.app/"
+  },
+  {
+    "objectID": "projects.html#employability-labor-market-analytics",
+    "href": "projects.html#employability-labor-market-analytics",
+    "title": "Projects",
+    "section": "",
+    "text": "Conducted exploratory analysis on employment and hiring patterns using large datasets.\nResearch Questions:\n\nHow do hiring patterns differ across industries?\nWhat factors influence workforce participation?\n\nMethods:\n\nData cleaning\nExploratory analysis\nVisualization\nStatistical interpretation\n\nTools:\nPython · SQL · GitHub · Data Visualization"
+  },
+  {
+    "objectID": "projects.html#marketing-customer-growth-projects",
+    "href": "projects.html#marketing-customer-growth-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "Worked on customer acquisition and growth initiatives through campaign execution and performance analysis.\nExamples:\n\nCommunity outreach strategy\nLead generation optimization\nEvent marketing support\nCustomer conversion tracking\n\nSkills:\nCRM · Analytics · Digital Marketing"
+  },
+  {
+    "objectID": "projects.html#data-analytics-visualization",
+    "href": "projects.html#data-analytics-visualization",
+    "title": "Projects",
+    "section": "",
+    "text": "Built analytical workflows to transform raw information into actionable business insights.\nExamples:\n\nDashboard design\nReporting automation\nData storytelling\nPerformance measurement\n\nTools:\nPython · Excel · Tableau · Power BI"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About You",
     "section": "",
-    "text": "About this site"
+    "text": "I am currently completing my Master’s degree at Boston University and preparing to begin my professional career in the United States.\nMy academic and professional experiences across Asia, Europe, and North America have shaped how I think about business: meaningful growth happens when data, people, and strategy work together.\nOver the past few years, I have worked across marketing, sales, business development, and market research environments, gaining experience in customer engagement, campaign execution, market analysis, and cross-functional collaboration.\nI enjoy turning fragmented information into clear insights and helping teams make better decisions.\n\n\n\n\n\n\nMaster’s Degree\nExpected Graduation: August 2026\nRelevant Areas: - Business Analytics - Marketing Strategy - Data Visualization - Customer Insights - Market Intelligence\n\n\n\nBachelor’s Degree in International Business\nHighlights: - International learning environment - Cross-cultural collaboration - Global business perspective\n\n\n\n\n\n\n\nWorked closely with customer acquisition, community outreach, event coordination, and marketing performance analysis.\n\n\n\nConducted industry research, analyzed business information, created executive presentations, and transformed large amounts of information into actionable recommendations.\n\n\n\nDeveloped communication, relationship management, and problem-solving capabilities through direct interaction with customers and stakeholders.\n\n\n\n\n\nData & Analytics\nPython · SQL · Excel · Tableau · Power BI\nMarketing\nCRM · Campaign Analysis · Market Research · Content Strategy\nBusiness\nPresentation Design · Competitive Intelligence · Project Management\n\n\n\n\nOutside of work, I enjoy exploring cities, learning languages, building creative side projects, and continuously discovering new industries and ideas.\nI believe curiosity and execution are equally important—and I hope this portfolio reflects both."
+  },
+  {
+    "objectID": "about.html#hi-im-alina",
+    "href": "about.html#hi-im-alina",
+    "title": "About You",
+    "section": "",
+    "text": "I am currently completing my Master’s degree at Boston University and preparing to begin my professional career in the United States.\nMy academic and professional experiences across Asia, Europe, and North America have shaped how I think about business: meaningful growth happens when data, people, and strategy work together.\nOver the past few years, I have worked across marketing, sales, business development, and market research environments, gaining experience in customer engagement, campaign execution, market analysis, and cross-functional collaboration.\nI enjoy turning fragmented information into clear insights and helping teams make better decisions."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About You",
+    "section": "",
+    "text": "Master’s Degree\nExpected Graduation: August 2026\nRelevant Areas: - Business Analytics - Marketing Strategy - Data Visualization - Customer Insights - Market Intelligence\n\n\n\nBachelor’s Degree in International Business\nHighlights: - International learning environment - Cross-cultural collaboration - Global business perspective"
+  },
+  {
+    "objectID": "about.html#professional-experience",
+    "href": "about.html#professional-experience",
+    "title": "About You",
+    "section": "",
+    "text": "Worked closely with customer acquisition, community outreach, event coordination, and marketing performance analysis.\n\n\n\nConducted industry research, analyzed business information, created executive presentations, and transformed large amounts of information into actionable recommendations.\n\n\n\nDeveloped communication, relationship management, and problem-solving capabilities through direct interaction with customers and stakeholders."
+  },
+  {
+    "objectID": "about.html#technical-skills",
+    "href": "about.html#technical-skills",
+    "title": "About You",
+    "section": "",
+    "text": "Data & Analytics\nPython · SQL · Excel · Tableau · Power BI\nMarketing\nCRM · Campaign Analysis · Market Research · Content Strategy\nBusiness\nPresentation Design · Competitive Intelligence · Project Management"
+  },
+  {
+    "objectID": "about.html#beyond-work",
+    "href": "about.html#beyond-work",
+    "title": "About You",
+    "section": "",
+    "text": "Outside of work, I enjoy exploring cities, learning languages, building creative side projects, and continuously discovering new industries and ideas.\nI believe curiosity and execution are equally important—and I hope this portfolio reflects both."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "You can download my resume below.\nDownload My Resume\n\n\n\nGraduate student with experience across marketing, business analytics, sales, and market research.\nInterested in opportunities involving:\n\nMarket Intelligence\nBusiness Analytics\nCustomer Insights\nGrowth Strategy\nBusiness Development"
+  },
+  {
+    "objectID": "cv.html#professional-summary",
+    "href": "cv.html#professional-summary",
+    "title": "CV",
+    "section": "",
+    "text": "Graduate student with experience across marketing, business analytics, sales, and market research.\nInterested in opportunities involving:\n\nMarket Intelligence\nBusiness Analytics\nCustomer Insights\nGrowth Strategy\nBusiness Development"
   }
 ]
