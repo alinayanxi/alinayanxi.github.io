@@ -2,32 +2,44 @@
 title: "Contact"
 ---
 
-# Contact
-
 Thank you for visiting my portfolio.
 
 I’m always happy to connect with professionals, recruiters, classmates, and collaborators.
 
+::: {.contact-grid}
+
+::: {.contact-card}
+<i class="fa-solid fa-envelope"></i>
+
 ## Email
 
-📧 alinayanxi@gmail.com
+[alinayanxi@gmail.com](mailto:alinayanxi@gmail.com)
+:::
+
+::: {.contact-card}
+<i class="fa-brands fa-linkedin"></i>
 
 ## LinkedIn
 
-🔗 https://www.linkedin.com/in/alinayanxi/
+[Connect with me](https://www.linkedin.com/in/alina-chen)
+:::
+
+::: {.contact-card}
+<i class="fa-brands fa-github"></i>
 
 ## GitHub
 
-🔗 https://github.com/alinayanxi
+[View my GitHub](https://github.com/alinayanxi)
+:::
 
----
+:::
 
 ## Areas of Interest
 
-- Market Intelligence
-- Business Analytics
-- Marketing Strategy
-- Business Development
-- Customer Insights
-
-Feel free to reach out for opportunities, collaboration, or simply to connect.
+::: {.interest-tags}
+<span>Market Intelligence</span>
+<span>Business Analytics</span>
+<span>Marketing Strategy</span>
+<span>Business Development</span>
+<span>Customer Insights</span>
+:::

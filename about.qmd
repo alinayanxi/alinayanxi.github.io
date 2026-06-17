@@ -1,77 +1,155 @@
 ---
-title: "About You"
+title: "About Me"
 ---
 
-# About Me
+::: {.about-hero}
 
-## Hi, I’m Alina 👋
+![](assets/Graduation.jpg){.profile-img}
 
-I am currently completing my Master’s degree at Boston University and preparing to begin my professional career in the United States.
+::: {.intro-card}
 
-My academic and professional experiences across Asia, Europe, and North America have shaped how I think about business: meaningful growth happens when data, people, and strategy work together.
+## Hi, I’m Alina Chen 👋
 
-Over the past few years, I have worked across marketing, sales, business development, and market research environments, gaining experience in customer engagement, campaign execution, market analysis, and cross-functional collaboration.
+I am a Boston University graduate student with a background in **marketing, business analytics, market intelligence, and international business**.
 
-I enjoy turning fragmented information into clear insights and helping teams make better decisions.
+I enjoy turning fragmented information into clear insights that help teams better understand markets, customers, and growth opportunities.
 
----
+:::
 
-## Education
+:::
 
-### Boston University  
-Master’s Degree  
-Expected Graduation: August 2026
+## Snapshot
 
-Relevant Areas:
-- Business Analytics
-- Marketing Strategy
-- Data Visualization
-- Customer Insights
-- Market Intelligence
+::: {.fact-row}
 
-### Excelia Business School (France)
+::: {.fact-box}
+<i class="fa-solid fa-location-dot"></i>
 
-Bachelor’s Degree in International Business
+### Boston
 
-Highlights:
-- International learning environment
-- Cross-cultural collaboration
-- Global business perspective
+Current Location
+:::
 
----
+::: {.fact-box}
+<i class="fa-solid fa-graduation-cap"></i>
 
-## Professional Experience
+### Boston University
 
-### Growth Marketing & Enrollment
+Graduate Student
+:::
 
-Worked closely with customer acquisition, community outreach, event coordination, and marketing performance analysis.
+::: {.fact-box}
+<i class="fa-solid fa-globe"></i>
 
-### Consulting & Market Research
+### Global Perspective
 
-Conducted industry research, analyzed business information, created executive presentations, and transformed large amounts of information into actionable recommendations.
+Asia · Europe · U.S.
+:::
 
-### Sales & Business Development
+::: {.fact-box}
+<i class="fa-solid fa-chart-line"></i>
 
-Developed communication, relationship management, and problem-solving capabilities through direct interaction with customers and stakeholders.
+### Career Focus
 
----
+Analytics & Strategy
+:::
+
+:::
+
+## What I Bring
+
+::: {.service-grid}
+
+::: {.service-card}
+<i class="fa-solid fa-magnifying-glass-chart"></i>
+
+### Market Intelligence
+
+Researching industries, competitors, and market signals to support better business decisions.
+:::
+
+::: {.service-card}
+<i class="fa-solid fa-bullhorn"></i>
+
+### Marketing & Growth
+
+Connecting customer insights with campaigns, outreach, and measurable engagement.
+:::
+
+::: {.service-card}
+<i class="fa-solid fa-database"></i>
+
+### Data-Driven Thinking
+
+Using analytical tools to organize information, identify patterns, and communicate findings clearly.
+:::
+
+:::
 
 ## Technical Skills
 
-**Data & Analytics**  
-Python · SQL · Excel · Tableau · Power BI
+::: {.skill-grid}
 
-**Marketing**  
-CRM · Campaign Analysis · Market Research · Content Strategy
+::: {.skill-card}
+<i class="fa-brands fa-python"></i>  
+**Python**
+:::
 
-**Business**
+::: {.skill-card}
+<i class="fa-solid fa-database"></i>  
+**SQL**
+:::
 
-Presentation Design · Competitive Intelligence · Project Management
+::: {.skill-card}
+<i class="fa-solid fa-file-excel"></i>  
+**Excel**
+:::
 
----
+::: {.skill-card}
+<i class="fa-solid fa-chart-line"></i>  
+**Tableau / Power BI**
+:::
 
-## Beyond Work
+::: {.skill-card}
+<i class="fa-solid fa-bullhorn"></i>  
+**Digital Marketing**
+:::
 
-Outside of work, I enjoy exploring cities, learning languages, building creative side projects, and continuously discovering new industries and ideas.
+::: {.skill-card}
+<i class="fa-solid fa-users"></i>  
+**CRM**
+:::
 
-I believe curiosity and execution are equally important—and I hope this portfolio reflects both.
+::: {.skill-card}
+<i class="fa-solid fa-magnifying-glass-chart"></i>  
+**Market Research**
+:::
+
+::: {.skill-card}
+<i class="fa-solid fa-lightbulb"></i>  
+**Strategy**
+:::
+
+:::
+
+## Journey
+
+::: {.timeline}
+
+### France 🇫🇷
+
+Studied international business and developed a global perspective.
+
+### Professional Experience
+
+Worked across marketing, sales, consulting, and business development environments.
+
+### Boston University 🇺🇸
+
+Expanded into analytics, market intelligence, visualization, and data-driven strategy.
+
+### Future
+
+Building a career that connects customer understanding, market research, and business impact.
+
+:::

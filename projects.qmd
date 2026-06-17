@@ -2,87 +2,79 @@
 title: "Projects"
 ---
 
-# Projects
+A selected collection of academic, professional, and personal projects that reflect my interests in analytics, market intelligence, marketing strategy, and business storytelling.
 
-Below are selected projects that reflect my interests in business strategy, analytics, marketing, and technology.
+::: {.project-showcase}
 
----
+::: {.project-card .featured}
+<span class="project-number">01</span>
 
-## Market Intelligence Website (Personal Project)
+<img src="assets/intersystems-logo.png" class="project-logo">
 
-### InterSystems Market Intelligence Platform
+<i class="fa-solid fa-globe project-icon"></i>
 
-Designed and developed a responsive website to present company research, product insights, and market positioning in an engaging and interactive format.
+## Market Intelligence Website
 
-Highlights:
+**InterSystems Market Intelligence Platform**
 
-- Built using modern web technologies
-- Structured competitive and product intelligence
-- Visual storytelling and dashboard-style presentation
-- Improved ability to communicate technical information
+Designed and developed a responsive website to present company research, product insights, market positioning, and strategic questions in a more visual and interactive format.
 
-Skills:
+::: {.project-tags}
+<span>Market Intelligence</span>
+<span>Web Design</span>
+<span>Research</span>
+<span>Storytelling</span>
+:::
 
-HTML · CSS · JavaScript · Research · Market Intelligence
+[View Website](https://intersystems-intelligence.vercel.app/){.btn .btn-primary}
+:::
 
-Website:
+::: {.project-card}
+<span class="project-number">02</span>
+<i class="fa-solid fa-chart-simple project-icon"></i>
 
-https://intersystems-intelligence.vercel.app/
+## Labor Market Analytics
 
----
+Analyzed employment and hiring patterns using large datasets to understand industry-level workforce trends and differences across groups.
 
-## Employability & Labor Market Analytics
+::: {.project-tags}
+<span>Python</span>
+<span>SQL</span>
+<span>Data Visualization</span>
+<span>GitHub</span>
+:::
+:::
 
-### Hiring Pattern Analysis Project
+::: {.project-card}
+<span class="project-number">03</span>
+<i class="fa-solid fa-bullhorn project-icon"></i>
 
-Conducted exploratory analysis on employment and hiring patterns using large datasets.
+## Marketing Growth Projects
 
-Research Questions:
+Supported customer acquisition, community outreach, lead generation, event marketing, and conversion tracking across marketing projects.
 
-- How do hiring patterns differ across industries?
-- What factors influence workforce participation?
+::: {.project-tags}
+<span>CRM</span>
+<span>Digital Marketing</span>
+<span>Customer Growth</span>
+<span>Campaigns</span>
+:::
+:::
 
-Methods:
+::: {.project-card}
+<span class="project-number">04</span>
+<i class="fa-solid fa-chart-line project-icon"></i>
 
-- Data cleaning
-- Exploratory analysis
-- Visualization
-- Statistical interpretation
+## Data Visualization
 
-Tools:
+Built analytical workflows that transform raw data into clear, actionable business insights through dashboards and visual storytelling.
 
-Python · SQL · GitHub · Data Visualization
+::: {.project-tags}
+<span>Tableau</span>
+<span>Power BI</span>
+<span>Excel</span>
+<span>Dashboards</span>
+:::
+:::
 
----
-
-## Marketing & Customer Growth Projects
-
-Worked on customer acquisition and growth initiatives through campaign execution and performance analysis.
-
-Examples:
-
-- Community outreach strategy
-- Lead generation optimization
-- Event marketing support
-- Customer conversion tracking
-
-Skills:
-
-CRM · Analytics · Digital Marketing
-
----
-
-## Data Analytics & Visualization
-
-Built analytical workflows to transform raw information into actionable business insights.
-
-Examples:
-
-- Dashboard design
-- Reporting automation
-- Data storytelling
-- Performance measurement
-
-Tools:
-
-Python · Excel · Tableau · Power BI
+:::

@@ -2,22 +2,120 @@
 title: "CV"
 ---
 
-# Curriculum Vitae
+# Resume
 
-You can download my resume below.
+::: {.cv-hero}
 
-[Download My Resume](Alina Chen_Business Analytics.pdf)
+## Alina Chen
 
----
+Marketing Analytics · Market Intelligence · Business Strategy
 
-## Professional Summary
+Graduate student with experience across **marketing, analytics, business development, and market research**.
 
-Graduate student with experience across marketing, business analytics, sales, and market research.
+[↓ Download Resume](assets/Alina%20Chen_Business%20Analytics.pdf){.btn .btn-primary}
 
-Interested in opportunities involving:
+:::
 
-- Market Intelligence
-- Business Analytics
-- Customer Insights
-- Growth Strategy
-- Business Development
+## Education
+
+::: {.edu-grid}
+
+::: {.edu-card}
+
+![](assets/Boston-University-Emblem.png){.school-logo}
+
+### Boston University
+
+Master of Science
+
+Applied Business Analytics
+
+Boston · 2025–2026
+
+:::
+
+::: {.edu-card}
+
+![](assets/EXCELIA_LOGO_RVB.png){.school-logo}
+
+### Excelia Business School
+
+Bachelor of Business Administration
+
+Marketing and Sales Management
+
+France · 2021–2025
+
+:::
+
+::: {.cv-stat}
+💼
+
+### Experience
+
+Marketing · Analytics · Sales
+:::
+
+::: {.cv-stat}
+📊
+
+### Tools
+
+Python · SQL · Tableau
+:::
+
+:::
+
+## Core Strengths
+
+::: {.resume-grid}
+
+::: {.resume-card}
+
+<i class="fa-solid fa-chart-line"></i>
+
+### Business Analytics
+
+Transforming data into business insights and decisions.
+
+:::
+
+::: {.resume-card}
+
+<i class="fa-solid fa-magnifying-glass-chart"></i>
+
+### Market Intelligence
+
+Researching industries, products, and market opportunities.
+
+:::
+
+::: {.resume-card}
+
+<i class="fa-solid fa-bullhorn"></i>
+
+### Marketing & Growth
+
+Building campaigns and customer engagement strategies.
+
+:::
+
+:::
+
+## Experience Highlights
+
+::: {.timeline}
+
+### Growth Marketing
+
+Lead generation · Campaign execution · CRM
+
+### Business Consulting
+
+Industry research · Executive presentation · Strategy
+
+### Market Intelligence
+
+Research · Competitive analysis · Storytelling
+
+:::
